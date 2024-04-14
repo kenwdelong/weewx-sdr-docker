@@ -5,6 +5,10 @@ Just trying to see if I can get Weewx 5 with SDR driver working in docker, so th
 ## The source image
 https://salsa.debian.org/jgoerzen/docker-weewx
 
+## Weewx 5.0 Docs
+https://weewx.com/docs/5.0/
+https://weewx.com/docs/5.0/quickstarts/debian/
+
 ## Weewx 5 install command
 https://github.com/matthewwall/weewx-sdr/issues/183
 
